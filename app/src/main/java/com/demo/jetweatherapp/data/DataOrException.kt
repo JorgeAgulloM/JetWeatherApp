@@ -1,0 +1,1 @@
+package com.demo.jetweatherapp.dataclass DataOrException<T, Boolean, E: Exception>(    var data: T? = null,    var Loading: Boolean? = null,    var e: E? = null) {}
